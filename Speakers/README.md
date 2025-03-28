@@ -16,4 +16,4 @@ The amplifier is a very classic type called PAM8406.
 
 # Speakers
 
-There are two types of speakers used on HackberryPi_CM5. 1507 speaker for Q20 version and 1511 speaker for Q10 and 9900 version.
+There are two types of speakers used on HackberryPi_CM5. 1507 speaker for Q20 version and 1511 speaker for Q10 and 9900 version. They are both 8Ω speakers and have difference at the dimension. You can find the datasheet about the speakers in this page.
