@@ -4,7 +4,7 @@ An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4"
 ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 # <a name='About this handheld  '>About this handheld</a>
 
-Here are some **Main Features:**  
+**Main Features:**  
 **SBC**: Only compatible with RaspberryPi CM5 unit, it can work with CM4 but the NVME Slot and USB Ports can't be used.  
 **Dual Speakers**: There are two speakers on board, you can connect them via Bluetooth.  
 **2242 NVME Slot**: You can connect a 2242 SSD with the device on board or Helio AI accelerator card. More information.  
@@ -13,7 +13,7 @@ Here are some **Main Features:**
 **Display**: 4" 720X720 high resolution TFT display with multi-touch function.  
 **USB Ports**: 2xUSB3.0 Speed Ports.  
 **Full sized HDMI Port**: There is one full sized HDMI port on board.  
-**Battery Type**: 5000mah Lipo Battery.  
+**Battery Type**: 5000mah Lipo Battery. More Information.  
 **Battery Life**: Approximately 5 hours idle time, about 3-4 hours depending on the task when normally used.  
 **Battery Voltage Measurement**: There is a chip on boared to measure the battery voltage through I2C interface, More information.   
 **Magnet at the back plate**: There is magnet which is the same as those on iphone to make the device compaticable with wired magsafe power bank. More information.   
