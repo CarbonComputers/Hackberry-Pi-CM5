@@ -13,3 +13,6 @@ The bluetooth audio module is very easy to source, it's called MH-M18.
 The amplifier is a very classic type called PAM8406.  
 ![image](https://github.com/user-attachments/assets/2b6e1704-28a0-40e7-b78f-e65098a3e902)  
 
+# Speakers
+
+There are two types of speakers used on HackberryPi_CM5. 1507 speaker for Q20 version and 1511 speaker for Q10 and 9900 version.
