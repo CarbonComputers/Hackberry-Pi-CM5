@@ -13,3 +13,9 @@ If the PCIE interface is not enabled, you add the following content in "/boot/fi
 dtparam=pciex1
 ```
 at [all] section
+
+The default mode of PCIe is gen2. If you need to enable PCIe Gen3, you need to add the following content at /boot/firmware/config.txt:
+```sh
+dtparam=pciex1_gen=3
+```
+at [all] section
