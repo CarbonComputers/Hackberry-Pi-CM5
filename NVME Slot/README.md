@@ -50,3 +50,8 @@ Mount the device
 ```sh
 sudo mount /dev/nvme0n1p1 ./ssd
 ```
+Checking disk status
+```sh
+df -h
+```
+![image](https://github.com/user-attachments/assets/05d913d4-3291-43b4-b47a-c9829f42b60f)
