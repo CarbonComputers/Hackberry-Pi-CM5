@@ -24,3 +24,4 @@ Now the ```config.txt``` file will look like this:
 ![image](https://github.com/user-attachments/assets/4eaf41f2-989e-48ca-8308-74255f591d27)
 
 Now make a ```sudo reboot``` and type ```lsblk``` The SSD should be recognized by the Pi:
+![image](https://github.com/user-attachments/assets/da639e70-392c-4627-a9c4-45de4356bc23)
