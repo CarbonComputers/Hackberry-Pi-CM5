@@ -9,4 +9,6 @@ There are many types of ssd that are not compatible with RaspberryPi, it is reco
 
 First enable PCIe Interface, note: PCIE interface is enabled on the PI5B by default.
 If the PCIE interface is not enabled, you add the following content in "/boot/firmware/config.txt":
-```dtparam=pciex1```
+```sh
+dtparam=pciex1
+```
