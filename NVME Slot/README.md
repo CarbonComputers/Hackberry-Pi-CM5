@@ -42,3 +42,11 @@ Wait for a few moments, when done has appeared, it means that the formatting has
 ![1a0374a7-da44-4201-9268-f5ef6763b0c1](https://github.com/user-attachments/assets/59d68cfb-bc9b-4627-8ab2-7d934cb8fa68)
 
 ### Mount
+Create Mount Directory(Use any name)
+```sh
+sudo mkdir ssd
+```
+Mount the device
+```sh
+sudo mount /dev/nvme0n1p1 ./ssd
+```
