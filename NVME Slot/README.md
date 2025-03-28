@@ -25,3 +25,9 @@ Now the ```config.txt``` file will look like this:
 
 Now make a ```sudo reboot``` and type ```lsblk``` The SSD should be recognized by the Pi:
 ![image](https://github.com/user-attachments/assets/da639e70-392c-4627-a9c4-45de4356bc23)
+
+Now make Partition:
+```sh
+sudo fdisk /dev/nvme0n1
+```
+Execute n to add the partition, and then just type enter enter enter until a new partition is created, and then execute w to save and exit.
