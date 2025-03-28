@@ -12,8 +12,8 @@ Here are some **Main Features:**
 **Full sized HDMI Port**: There is one full sized HDMI port on board.  
 **Battery Type**: 5000mah Lipo Battery.  
 **Battery Life**: Approximately 5 hours idle time, about 3-4 hours depending on the task when normally used.  
-**Battery Voltage Measurement**: There is a chip on boared to measure the battery voltage through I2C interface, check this page for further information.   
-**Magnet at the back plate**: There is magnet which is the same as those on iphone to make the device compaticable with wired magsafe power bank. Check this page for more information.   
+**Battery Voltage Measurement**: There is a chip on boared to measure the battery voltage through I2C interface, More information.   
+**Magnet at the back plate**: There is magnet which is the same as those on iphone to make the device compaticable with wired magsafe power bank. More information.   
 **Keyboard Mouse Combo**: Yes, this cyberdeck has keyboard and mouse combo on board. You can choose blackberry Q10 or Q20 or 9900 keyboard.  
 **Fully customizable keymap**: You can connect the keyboard with a computer and customizable the keymap through [VIAL](https://get.vial.today/) easily.  
 **Charging Ampere**: Charge through the Type-C port. 1.5A-2A charging rate; this handheld can be fully charged within 2-3 hours.  
