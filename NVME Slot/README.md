@@ -31,4 +31,5 @@ Now make Partition:
 sudo fdisk /dev/nvme0n1
 ```
 Execute n to add the partition, and then just type enter enter enter until a new partition is created, and then execute w to save and exit.
-![Uploading 3e1775b2937b64a7e02af512a7da948c.png…]()
+![3e1775b2937b64a7e02af512a7da948c](https://github.com/user-attachments/assets/efba3dd9-927c-44ab-b508-64ea986d3372)
+
