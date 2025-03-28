@@ -81,7 +81,7 @@ sudo nano /etc/fstab
 ```sh
 /dev/nvme0n1p1  /home/pi/ssd  ext4  defaults  0  0
 ```
-#/dev/nvme0n1p1 is the device name, /home/pi/ssd is the directory to be mounted, ext4 is the file system type, defaults are using the default mounting setting
+#/dev/nvme0n1p1 is the device name, /home/pi/ssd is the directory to be mounted, ext4 is the file system type, defaults are using the default mounting setting  
 Make the modification take effect (make sure the test is sound before rebooting, otherwise it will lead to failure to mount or boot; if it cannot boot, you can remove the content added in /etc/fstab)
 ```sh
 sudo mount -a
