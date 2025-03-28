@@ -55,3 +55,19 @@ Checking disk status
 df -h
 ```
 ![image](https://github.com/user-attachments/assets/05d913d4-3291-43b4-b47a-c9829f42b60f)
+
+## Read/Write Test
+Enter the directory where the disk is mounted:
+```sh
+cd ssd
+```
+Write test
+```sh
+sudo dd if=/dev/zero of=./test_write count=2000 bs=1024k
+```
+Read Test
+```sh
+sudo dd if=./test_write of=/dev/null count=2000 bs=1024k
+```
+Note: Different cards and environments make different test results. As the Raspberry Pi is more vulnerable to being affected, if you want to test the exact performance, you can use a PC to test.
+![image](https://github.com/user-attachments/assets/6898ba8f-9f83-42ca-b039-fdb53ec3016c)
