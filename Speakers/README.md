@@ -8,9 +8,11 @@ This is how I add sound on HackberryPi_CM5: Integrating a bluetooth speaker on b
 
 
 **Advantages**:  
+
+
 **No gpio needed**: The SBC communicates with the audio module via bluetooth so there is no gpio needed.  
 **Driverless**: As long as your operating system installed have bluetooth driver, you can pair with the speaker and no external driver needed.  
-**Good sound quality**: The 
+**Good sound quality**: As long as the power source for the bluetooth audio module clear is, the sound quality is good.  
 **Cheap cost**: compared with some USB solution, the bluetooth audio module is moch more cheaper.  
 
 
