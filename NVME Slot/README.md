@@ -12,3 +12,4 @@ If the PCIE interface is not enabled, you add the following content in "/boot/fi
 ```sh
 dtparam=pciex1
 ```
+at [all] section
