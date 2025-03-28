@@ -102,6 +102,8 @@ Then
 sudo rpi-eeprom-config --edit
 ```
 Modify BOOT_ORDER=0xf41 as BOOT_ORDER=0xf416  
+![image](https://github.com/user-attachments/assets/d105ebac-e58d-4332-8f2d-8bdc8c2243dd)
+
 
 Remove the tf card and reboot the HackberryPi then the system should be rebooted from the SSD, it's about 10 seconds faster than booting from tf card(RaspberryPi OS)
 
