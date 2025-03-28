@@ -9,4 +9,5 @@ This is how I add sound on HackberryPi_CM5: Integrating a bluetooth speaker on b
 The solution is bluetooth audio module + Stereo Speaker amplifier
 ![image](https://github.com/user-attachments/assets/fa1b662a-e1b8-4add-a23a-1842e9664163)
 The bluetooth audio module is very easy to source, it's called MH-M18.
+
 The amplifier is a very classic type called PAM8406.
