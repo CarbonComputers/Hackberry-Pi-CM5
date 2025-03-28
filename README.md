@@ -5,7 +5,7 @@ An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4"
 # <a name='About this handheld  '>About this handheld</a>
 
 Here are some **Main Features:**  
-**Main Processor**: Only compatible with RaspberryPi CM5 unit, it can work with CM4 but the NVME Slot and USB Ports can't be used.  
+**SBC**: Only compatible with RaspberryPi CM5 unit, it can work with CM4 but the NVME Slot and USB Ports can't be used.  
 **Metall body**: The front and back plate is made of Aluminium, the middle part is 3D-printed.  
 **Display**: 4" 720X720 high resolution TFT display with multi-touch function.  
 **USB Ports**: 2xUSB3.0 Speed Ports.  
