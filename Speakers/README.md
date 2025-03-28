@@ -31,3 +31,8 @@ There are two types of speakers used on HackberryPi_CM5. 1507 speaker for Q20 ve
 
 Because the speaker used is just pure speaker and it has no sound cavity. I glue the speaker on the PCB and make a hole on the PCB so that the sound from the speaker can spread to the internal case and that a good cavity, from my test, after making a hole on the PCB the sound quality can get much better. The image below shows the outline(green line) of the speaker and the hole(pink line) made for the sound.  
 ![image](https://github.com/user-attachments/assets/4c991658-1e0e-4ed0-9fd1-6774af63f9e0)
+
+# Pair with the speakers
+
+After you turn on the device, you can hear sound from the speaker. But you need to manually pair with the speaker in different operating system, here are the steps:
+
