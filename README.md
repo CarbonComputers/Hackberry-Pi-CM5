@@ -5,13 +5,13 @@ An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4"
 # <a name='About this handheld  '>About this handheld</a>
 
 **Main Features:**  
-**SBC**: Only compatible with RaspberryPi CM5 unit, it can boot with CM4 but the NVME Slot and the 2xUSB3.0 Ports can't be used.  
+**SBC**: ```Only``` compatible with RaspberryPi CM5 unit, it can boot with CM4 but the NVME Slot and the 2xUSB3.0 Ports can't be used.  
 **Dual Speakers**: There are two speakers on board, you can connect them via ```Bluetooth```. [More information.](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Speakers)  
 **2242 NVME Slot**: You can connect a ```2242 SSD``` with the device on board or ```Halio AI accelerator card.``` [More information.](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/NVME%20Slot)  
 **RTC battery**: There is a ```CR927``` battery slot on board, you can use the RTC function on cm5 very easily. More information.  
 **Metall body**: The front and back plate is made of ```Aluminium```, the middle part is 3D-printed.  
-**Display**: 4" 720X720 high resolution TFT display with multi-touch function.  
-**USB Ports**: 2xUSB3.0 Speed Ports.  
+**Display**: 4" ```720X720``` high resolution TFT display with multi-touch function.  
+**USB Ports**: 2x```USB3.0``` Speed Ports.  
 **Full sized HDMI Port**: There is ```one full sized``` HDMI port on board.  
 **Battery Type**: ```5000mah``` Lipo Battery. More Information.  
 **Battery Life**: Approximately ```5 hours idle time```, about 3-4 hours depending on the task when normally used.  
