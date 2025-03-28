@@ -4,7 +4,7 @@ An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4"
 ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 # <a name='About this handheld  '>About this handheld</a>
 
-**Main Features:**  
+### Main Features:  
 **SBC**: ```Only``` compatible with RaspberryPi CM5 unit, it can boot with CM4 but the NVME Slot and the 2xUSB3.0 Ports can't be used.  
 **Dual Speakers**: There are two speakers on board, you can connect them via ```Bluetooth```. [More information.](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Speakers)  
 **2242 NVME Slot**: You can connect a ```2242 SSD``` with the device on board or ```Halio AI accelerator card.``` [More information.](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/NVME%20Slot)  
