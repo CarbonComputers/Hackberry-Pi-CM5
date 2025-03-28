@@ -71,3 +71,13 @@ sudo dd if=./test_write of=/dev/null count=2000 bs=1024k
 ```
 Note: Different cards and environments make different test results. As the Raspberry Pi is more vulnerable to being affected, if you want to test the exact performance, you can use a PC to test.
 ![image](https://github.com/user-attachments/assets/6898ba8f-9f83-42ca-b039-fdb53ec3016c)
+
+## Auto-Mounting
+If the testing is sound and you don't need it as a system disk and only use an extended disk, you can set up an automatic mounting.
+```sh
+sudo nano /etc/fstab
+```
+#Add the following content at the end:
+```sh
+/dev/nvme0n1p1  /home/pi/ssd  ext4  defaults  0  0
+```
