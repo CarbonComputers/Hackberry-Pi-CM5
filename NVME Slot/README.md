@@ -21,3 +21,4 @@ dtparam=pciex1_gen=3
 at [all] section
 
 Now the ```config.txt``` file will look like this:  
+![image](https://github.com/user-attachments/assets/4eaf41f2-989e-48ca-8308-74255f591d27)
