@@ -19,3 +19,5 @@ The default mode of PCIe is gen2. If you need to enable PCIe Gen3, you need to a
 dtparam=pciex1_gen=3
 ```
 at [all] section
+
+Now the ```config.txt``` file will look like this:  
