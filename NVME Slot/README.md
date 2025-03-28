@@ -94,6 +94,7 @@ Open Menu->Accessories->SD card Copier.
 Copy the image from SD card to SSD:  
 ![image](https://github.com/user-attachments/assets/c34ebdf6-002e-4a6a-beb8-bac9ac4a08d4)  
 Wait a few moment until the copying is finished.  
+![image](https://github.com/user-attachments/assets/01d3ec06-4dac-4cd3-84e6-d3568cfc96b1)  
 
 
 Then
