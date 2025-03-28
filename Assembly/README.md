@@ -1,3 +1,3 @@
 ## Assembly of the HackberryPi_CM5
 
-Depends on your need, these are the following steps 
+Depends on your need, these are the following steps to assemble a HackberryPi_CM5
