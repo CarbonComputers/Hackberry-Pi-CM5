@@ -5,11 +5,15 @@ As we know, it's always been somehow difficult or tricky to add sound for Raspbe
 ## Bluetooth speakers on board
 
 This is how I add sound on HackberryPi_CM5: Integrating a bluetooth speaker on board.  
+
+
 **Advantages**:  
 **No gpio needed**: The SBC communicates with the audio module via bluetooth so there is no gpio needed.  
-**driverless**: As long as your operating system installed have bluetooth driver, you can pair with the speaker and no external driver needed.  
-**good sound quality**: The 
+**Driverless**: As long as your operating system installed have bluetooth driver, you can pair with the speaker and no external driver needed.  
+**Good sound quality**: The 
 **Cheap cost**: compared with some USB solution, the bluetooth audio module is moch more cheaper.  
+
+
 The solution is bluetooth audio module + Stereo Speaker amplifier  
 ![image](https://github.com/user-attachments/assets/fa1b662a-e1b8-4add-a23a-1842e9664163)  
 The bluetooth audio module is very easy to source, it's called MH-M18.  
