@@ -86,3 +86,21 @@ Make the modification take effect (make sure the test is sound before rebooting,
 ```sh
 sudo mount -a
 ```
+You should see an external disk on the desktop after reboot
+
+## Booting from NVMe SSD
+Open Menu->Accessories->SD card Copier.  
+![image](https://github.com/user-attachments/assets/7ccde86f-81f4-400d-90f2-17856608acf7)
+Copy the image from SD card to SSD:
+![image](https://github.com/user-attachments/assets/c34ebdf6-002e-4a6a-beb8-bac9ac4a08d4)
+Wait a few moment until the copying is finished.  
+
+
+Then
+```sh
+sudo rpi-eeprom-config --edit
+```
+Modify BOOT_ORDER=0xf41 as BOOT_ORDER=0xf416  
+
+Remove the tf card and reboot the HackberryPi then the system should be rebooted from the SSD, it's about 10 seconds faster than booting from tf card(RaspberryPi OS)
+
