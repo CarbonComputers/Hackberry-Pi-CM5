@@ -35,3 +35,10 @@ Execute n to add the partition, and then just type enter enter enter until a new
 ![3e1775b2937b64a7e02af512a7da948c](https://github.com/user-attachments/assets/efba3dd9-927c-44ab-b508-64ea986d3372)
 
 ### Format
+```sh
+sudo mkfs.ext4 /dev/nvme0n1p1
+```
+Wait for a few moments, when done has appeared, it means that the formatting has been carried out.
+![1a0374a7-da44-4201-9268-f5ef6763b0c1](https://github.com/user-attachments/assets/59d68cfb-bc9b-4627-8ab2-7d934cb8fa68)
+
+### Mount
