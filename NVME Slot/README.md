@@ -7,6 +7,7 @@ There are many types of ssd that are not compatible with RaspberryPi, it is reco
 
 ## Use SSD with HackberryPi_CM5
 
+### Enable PCIe
 First enable PCIe Interface, note: PCIE interface is enabled on the PI5B by default.
 If the PCIE interface is not enabled, you add the following content in "/boot/firmware/config.txt" by typing ```sudo nano /boot/firmware/config.txt``` in a terminal:
 ```sh
@@ -26,10 +27,11 @@ Now the ```config.txt``` file will look like this:
 Now make a ```sudo reboot``` and type ```lsblk``` The SSD should be recognized by the Pi:
 ![image](https://github.com/user-attachments/assets/da639e70-392c-4627-a9c4-45de4356bc23)
 
-Now make Partition:
+### Partition
 ```sh
 sudo fdisk /dev/nvme0n1
 ```
 Execute n to add the partition, and then just type enter enter enter until a new partition is created, and then execute w to save and exit.
 ![3e1775b2937b64a7e02af512a7da948c](https://github.com/user-attachments/assets/efba3dd9-927c-44ab-b508-64ea986d3372)
 
+### Format
