@@ -16,3 +16,5 @@ dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ```
 In this way, you have installed the screen driver on this operating system and invoked it.  
 Unless this operating system does not support the Pi 5, it should generally be able to display the image on this screen.
+
+### Also note that the default hardware I2C and SPI gpios are used for the display. So remember to disable them in the OS
