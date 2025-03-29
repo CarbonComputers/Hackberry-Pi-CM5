@@ -4,3 +4,6 @@
 
 ```Step1```  Download the Release Image for RaspberryPi on this [page](https://github.com/manjaro-arm/rpi4-images/releases). Although it's labeled as pi4, you can still install the OS on pi5 and should run without issue. For example we can choose Manjaro with plasma desktop  
 ![image](https://github.com/user-attachments/assets/77511ebb-c6fc-4556-9b0b-dbe8d535705a)  
+```Step2``` Flash the downloaded image into a TF card  
+```Step3``` Copy the following content into the config.txt and override  
+```Step4``` Insert the TF card into the HackberryPi_CM5 and power it on, wait a few seconds and you can see it booting  
