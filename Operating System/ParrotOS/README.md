@@ -2,12 +2,12 @@
 
 ### Parrot OS is a Linux distribution based on Debian with a focus on security, privacy, and development.
 
-```Step1``` Download the Image for RaspberryPi on this [page](https://parrotsec.org/download/)
-```Step2``` Flash the downloaded image into a TF card
-```Step3``` Copy the following content into the config.txt and override 
-```Step4``` Insert the TF card into the HackberryPi_CM5 and power it on, wait a few seconds and you can see it booting
+```Step1``` Download the Image for RaspberryPi on this [page](https://parrotsec.org/download/)  
+```Step2``` Flash the downloaded image into a TF card  
+```Step3``` Copy the following content into the config.txt and override  
+```Step4``` Insert the TF card into the HackberryPi_CM5 and power it on, wait a few seconds and you can see it booting  
 
-···
+```
 sh
 # For more options and information see
 # http://rptl.io/configtxt
