@@ -7,8 +7,9 @@
 ```Step3``` Copy the following content into the config.txt and override  
 ```Step4``` Insert the TF card into the HackberryPi_CM5 and power it on, wait a few seconds and you can see it booting  
 
-```
-sh
+
+
+```sh
 # For more options and information see
 # http://rptl.io/configtxt
 # Some settings may impact device functionality. See link above for details
