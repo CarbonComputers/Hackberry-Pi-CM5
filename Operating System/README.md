@@ -1,4 +1,4 @@
-# Install different operating system on HackberryPi_CM5
+f# Install different operating system on HackberryPi_CM5
 
 There are many different OS that you can install on HackberryPi_CM5. They are basically those OS that support RaspberryPi5 Serie. 
 But note that RaspberryPi5 or BCM2712 is relativly a new chip. Some OS may have not enough support for Pi5 like Kali.  
@@ -14,3 +14,5 @@ But note that RaspberryPi5 or BCM2712 is relativly a new chip. Some OS may have 
 dtoverlay=vc4-kms-v3d
 dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ```
+In this way, you have installed the screen driver on this operating system and invoked it.  
+Unless this operating system does not support the Pi 5, it should generally be able to display the image on this screen.
