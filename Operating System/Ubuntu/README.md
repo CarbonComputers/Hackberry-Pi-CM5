@@ -1,3 +1,4 @@
+```sh
 [all]
 arm_64bit=1
 kernel=vmlinuz
@@ -58,3 +59,4 @@ dtoverlay=dwc2,dr_mode=host
 dtoverlay=dwc2,dr_mode=host
 dtoverlay=vc4-kms-v3d
 dtoverlay=vc4-kms-dpi-hyperpixel4sq
+```
