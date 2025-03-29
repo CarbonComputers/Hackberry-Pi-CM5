@@ -71,3 +71,5 @@ dtoverlay=dwc2,dr_mode=host
 dtoverlay=vc4-kms-v3d
 dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ```
+
+### Note: It seems by default the image on screen is set at 275% scale. You might need to connect to an external HDMI display to reset the scale on Manjaro
