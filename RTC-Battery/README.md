@@ -9,3 +9,4 @@ After you install the battery you can check the battery voltage first by typing 
 ```sh
 cat /sys/devices/platform/soc/soc:rpi_rtc/rtc/rtc0/battery_voltage
 ```
+![image](https://github.com/user-attachments/assets/2b21954b-3a8b-4bb2-adc6-bddab41c39dc)
