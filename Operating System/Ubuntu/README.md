@@ -2,10 +2,10 @@
 
 ### Ubuntu is a Linux distribution derived from Debian and composed mostly of free and open-source software
 
-## Note that currently that Ubuntu is not supported by RaspberryPi_CM5, there could be install crash during the system installation. But the way to make the system image on the display is show below
+## Note: Ubuntu is currently not supported on the Raspberry Pi CM5. Installing Ubuntu may result in system crashes. However, you can display the system image using the following method:
 
 
-```Step1``` Download the ubuntu image from the pi imager(main folder-> other general-purpose OS-> Ubuntu)  
+```Step1``` Download the Ubuntu image from the pi imager(main folder-> other general-purpose OS-> Ubuntu)  
 ```Step2``` Copy the following content into the config.txt and override  
 ```Step3``` Insert the TF card into the HackberryPi_CM5 and power it on, wait a few seconds and you can see it booting  
 
