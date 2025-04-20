@@ -7,9 +7,6 @@ The battery used on HackberryPi_CM5 is Lipo battery with multiple certifications
 ```Battery Voltage```: 2.75-4.2V  
 ```Weight```: 84.4g  
 
-### There are different certifications of this battery, the files can be found in this page
-
-
-### Using the battery
+### Monitoring the battery voltage
 
 It's normal that under heavy load that the battery voltage reading from the I2C sensor can drop
