@@ -15,7 +15,7 @@ Compared with other operating system, it's just needed to delete the vms, becaus
 
 ```
 
-⚠️ ### Note:  
+⚠️ **Note:**  
 
 Bluetooth may not be enabled by default in Kali on current version of Kali. You need to enable it manually, here are the steps:
 
