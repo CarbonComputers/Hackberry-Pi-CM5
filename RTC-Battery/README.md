@@ -1,10 +1,11 @@
 # RTC_Battery on HackberryPi_CM5
 
-The battery type on HackberryPi_CM5 is CR927 battery
+There is an RTC battery on board on HackberryPi_CM5 and is pre-installed before delivery
 
-This page tells you how to install the battery
+![image](https://github.com/user-attachments/assets/f9ec7797-bb5f-4f07-8b85-8a5f66d573b0)
 
-After you install the battery you can check the battery voltage first by typing this in terminal:
+
+You can check the battery voltage first by typing this in terminal:
 
 ```sh
 cat /sys/devices/platform/soc/soc:rpi_rtc/rtc/rtc0/battery_voltage
