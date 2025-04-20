@@ -65,3 +65,5 @@ dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ```
 
 You can type ```startx``` in terminal to enter desktop environment
+
+![image](https://github.com/user-attachments/assets/c2be8186-bf20-4923-9fe9-21f9eb4ba194)
