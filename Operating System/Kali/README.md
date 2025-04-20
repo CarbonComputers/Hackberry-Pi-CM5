@@ -26,3 +26,4 @@ and then
 ```sh
 sudo systemcli enable bluetooth.service
 ```
+Then you can connect with the speakers and use bluetooth on HackberryPi_CM5 in Kali
