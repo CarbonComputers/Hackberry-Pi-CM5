@@ -2,7 +2,8 @@
 
 ### Ubuntu is a Linux distribution derived from Debian and composed mostly of free and open-source software
 
-## Note: Ubuntu is currently not supported on the Raspberry Pi CM5. Installing Ubuntu may result in system crashes. However, you can display the system image using the following method:
+⚠️⚠️⚠️  
+## Note: Ubuntu is currently not supported on the Raspberry Pi CM5. Installing Ubuntu may result in system crashes. There might be kernel patches in the future to fix this. However, you can display the system image using the following method:
 
 
 ```Step1``` Download the Ubuntu image from the pi imager(main folder-> other general-purpose OS-> Ubuntu)  
@@ -72,3 +73,4 @@ dtoverlay=dwc2,dr_mode=host
 dtoverlay=vc4-kms-v3d
 dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ```
+![image](https://github.com/user-attachments/assets/3ee45c39-7f7b-4a17-9fb0-ba4bc1ffa9c9)
