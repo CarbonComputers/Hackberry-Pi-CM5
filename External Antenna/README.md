@@ -5,4 +5,15 @@ The following are the installation steps:
 
 ### Install external antenna on HackberryPi_CM5
 
-```Step1:``` Loosen the four screws on the back panel.
+```Step1:``` Loosen the four screws on the back panel.  
+```Step2:``` Connect the external FPC antenna with a first-generation IPEX connector to the antenna socket on the Raspberry Pi CM5 board.  
+```Step3:``` Adjust the direction of the antenna to prevent interference with the enclosure, as shown in the Picture.  
+```Step4:``` Add a line of code in the config.txt file by 
+```sh
+sudo nano /boot/firmware/config.txt
+```
+
+with the line
+```sh
+dtparam=ant2
+```
