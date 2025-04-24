@@ -8,4 +8,4 @@ There is an USBHub for HackberryPi_CM5 which can extend one of the USB3.0 Port o
 ⚠️ **Note:**  
 This USBHub can comsumpe approximately 60-70ma @5V so it will add about 0.3-0.4W power consumption.
 
-Where to buy:
+#### You can buy this USBHUB together with HackberryPi_CM5 on elecrow
