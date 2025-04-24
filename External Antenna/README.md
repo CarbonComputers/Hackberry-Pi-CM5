@@ -7,13 +7,14 @@ The following are the installation steps:
 
 ```Step1:``` Loosen the four screws on the back panel.  
 ```Step2:``` Connect the external FPC antenna with a first-generation IPEX connector to the antenna socket on the Raspberry Pi CM5 board.  
-```Step3:``` Adjust the direction of the antenna to prevent interference with the enclosure, as shown in the Picture.  
+```Step3:``` Adjust the direction of the antenna to prevent interference with the enclosure, as shown in the picture:  
 ```Step4:``` Add a line of code in the config.txt file by 
 ```sh
 sudo nano /boot/firmware/config.txt
 ```
 
-with the line
+with the following line
 ```sh
 dtparam=ant2
 ```
+Now you can have a better signal experience.
