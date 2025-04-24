@@ -17,5 +17,5 @@ with the following line
 ```sh
 dtparam=ant2
 ```
-Source: [CM5 datasheet](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf)
+Source: [CM5 datasheet](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf)  
 Now you can have a better signal experience.
