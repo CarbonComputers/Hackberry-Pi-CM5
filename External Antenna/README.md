@@ -5,3 +5,4 @@ The following are the installation steps:
 
 ### Install external antenna on HackberryPi_CM5
 
+```Step1:``` Loosen the four screws on the back panel.
