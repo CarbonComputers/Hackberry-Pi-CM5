@@ -15,8 +15,7 @@
 
 ---
 
-# HackberryPiCM5
- An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
+The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board computer) powered handheld computer with reuse of original keyboard from old Blackberry phones. The goal of the project is to create a portable linux-powered computer that lets the user gain a deeper understanding of Linux and explore the architecture of hardware, software, and the Linux kernel. This repository will be used to share information about the project and tutorial about how to make use of this device.
  
  ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
  # <a name='About this handheld  '>About this handheld</a>
