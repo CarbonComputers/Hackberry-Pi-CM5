@@ -59,5 +59,5 @@ In this page you can find the 3D model of each part of this device, you can prin
 * [Assembly Guidelines](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Assembly)  
 
   # <a name='Hardware  '>Hardware</a>
-In this page there is detailed hardware explanation about HackberryPi_CM5. The idea is to help those guys who are interested to make adapter board for CM5 and the hardware concept of the keyboard and so on. For more information please check on this page.
+This page offers an in-depth hardware overview of the HackberryPi_CM5, designed to guide anyone interested in creating an adapter board for the CM5 module, exploring the keyboard’s hardware architecture, and related concepts. For more details, please visit this page.
 * [Hardware](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Hardware)  
