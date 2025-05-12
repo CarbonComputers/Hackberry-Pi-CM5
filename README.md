@@ -1,6 +1,11 @@
 <p align="center">
 <img src="HackberryPi_Logo.png" alt="Redox logo" width="200"/>
  </p>
+
+ <h3 align="center">The HackberryPi_CM5 project repository</h3>
+
+<div align="center">
+
 # HackberryPiCM5
  An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
  
