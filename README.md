@@ -50,6 +50,10 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  **Stemma I2C Port**: This device has a ```Stemma I2C port``` on board, you can connect with any I2C sensors.  
 
 
+ # <a name='3D model about this device  '>3D model about this device</a>
+In this page you can find the 3D model of each part of this device, you can print or modify the part yourself.
+* [3D model about this device](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/3D-Modell)
+  
  # <a name='Assembly Guidelines  '>Assembly Guidelines</a>
 
 * [Assembly Guidelines](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Assembly)  
