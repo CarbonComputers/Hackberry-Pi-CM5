@@ -52,5 +52,5 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
 
  # <a name='Assembly Guidelines  '>Assembly Guidelines</a>
 
-* [Assembly Guidelines](https://github.com/clockworkpi/uConsole/blob/master/Clockwork_uConsole_Assembly_Guidelines.pdf)  
+* [Assembly Guidelines](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Assembly)  
  
