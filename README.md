@@ -50,6 +50,7 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  **Stemma I2C Port**: This device has a ```Stemma I2C port``` on board, you can connect with any I2C sensors.  
 
 
- # <a name='About this handheld  '>About this Handheld Computer</a>
- 
+ # <a name='Assembly Guidelines  '>Assembly Guidelines</a>
+
+* [Assembly Guidelines](https://github.com/clockworkpi/uConsole/blob/master/Clockwork_uConsole_Assembly_Guidelines.pdf)  
  
