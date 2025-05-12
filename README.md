@@ -22,7 +22,9 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
 </p>
 
 **Designer's bio**: Zitao, currently a master’s student in Mechanical Engineering and Industrial Design at the Technical University of Dresden.  
-[Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
+<div align="center">
+ [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)
+ </div>
  # <a name='About this handheld  '>About this handheld</a>
  
  ### Main Features:  
