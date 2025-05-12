@@ -12,3 +12,12 @@ Assembly is straightforward: install the CM5 module, secure the heat sink,, here
 ### Then use the white printed tool to secure the yellow screws
 ![image](https://github.com/user-attachments/assets/d07a4d60-4d26-4206-b65e-26ac93872374)
 ![image](https://github.com/user-attachments/assets/1803a0f1-7f5d-47a9-a144-54577faf5720)
+
+### Don't forget this: Place the thermal silicone pad onto the CM5 module.
+![image](https://github.com/user-attachments/assets/d82e1700-abcb-462e-9333-f6410813fed2)
+
+### At last secure the heat sink with screws and lock the back plate.
+![image](https://github.com/user-attachments/assets/650cfd96-d7de-4a42-bbd4-cd2389b7efec)
+![image](https://github.com/user-attachments/assets/2c8f3c18-104d-44b0-bcc3-6b6f5a593201)
+
+Now it's OK to turn on the device and enjoy your time with it!!!
