@@ -28,7 +28,8 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
 [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)
  
  </div>
- # <a name='About this handheld  '>About this handheld</a>
+ 
+ # <a name='About this handheld  '>About this Handheld Computer</a>
  
  ### Main Features:  
  **SBC**: ```Only``` compatible with RaspberryPi CM5 unit, it can boot with CM4 but the NVME Slot and the 2xUSB3.0 Ports can't be used.  
@@ -47,4 +48,8 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  **Fully customizable keymap**: You can connect the keyboard with a computer and ```customizable``` the keymap through [VIAL](https://get.vial.today/) easily. More Information.  
  **Charging Ampere**: Charge through the Type-C port. ```1.5A-2A charging rate```; this handheld can be fully charged within 2-3 hours.  
  **Stemma I2C Port**: This device has a ```Stemma I2C port``` on board, you can connect with any I2C sensors.  
+
+
+ # <a name='About this handheld  '>About this Handheld Computer</a>
+ 
  
