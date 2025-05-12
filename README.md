@@ -61,3 +61,5 @@ In this page you can find the 3D model of each part of this device, you can prin
 # <a name='Hardware  '>Hardware</a>
 This page offers an in-depth hardware overview of the HackberryPi_CM5, designed to guide anyone interested in creating an adapter board for the CM5 module, exploring the keyboard’s hardware architecture, and related concepts. For more details, please visit this page.
 * [Hardware](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Hardware)  
+
+# <a name='Speakers  '>Speakers</a>
