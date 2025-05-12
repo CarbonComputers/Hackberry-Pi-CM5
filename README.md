@@ -8,7 +8,7 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/zitaotech/HackberryPiCM5.svg)](https://github.com/ZitaoTech/HackberryPiCM5/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/mattdibi/redox-keyboard.svg)](https://github.com/mattdibi/redox-keyboard/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/zitaotech/HackberryPiCM5.svg)](https://github.com/ZitaoTech/HackberryPiCM5/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
