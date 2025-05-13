@@ -12,7 +12,10 @@ The following parts are the same for all keyboard version:
 
 What's different between different keyboard version:
 * Keyboard support
-* uppercase
+* Uppercase
+
+Step file available for each structural part, feel free to modify them
+
 
 # Screws for HackberryPi_CM5
 4 pcs M2x14 ```hexagon socket countersunk``` screws  
