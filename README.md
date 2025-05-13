@@ -29,7 +29,7 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  
  </div>
  
- # <a name='About this handheld  '>About this Handheld Computer</a>
+ # <a name='About this Device  '>About this Device Computer</a>
  
  ### Main Features:  
  **SBC**: ```Only``` compatible with RaspberryPi CM5 unit, it can boot with CM4 but the NVME Slot and the 2xUSB3.0 Ports can't be used.  
