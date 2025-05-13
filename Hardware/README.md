@@ -13,3 +13,7 @@
 * Stemma QT port: Connect with I2C sensors
 * Battery voltage measure chip on board: Get the current battery voltage
 
+# BOM file of HackberryPi_CM5
+
+Check the [ibom file](https://github.com/ZitaoTech/HackberryPiCM5/blob/main/Hardware/Bom_HackberryPi_CM5_Q20_rev0.html) of this page to review the component on HackberryPi_CM5
+![image](https://github.com/user-attachments/assets/9dc0ef23-dd5d-40aa-aba6-14b0ed139410)
