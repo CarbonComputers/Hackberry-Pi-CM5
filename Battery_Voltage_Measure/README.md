@@ -46,3 +46,7 @@ if __name__ == "__main__":
         print("\nProgram stopped")
         max17048.close()
 ```
+
+![image](https://github.com/user-attachments/assets/55db79cd-ad6f-4a8d-9a4a-d0ffe60f7829)
+
+# Hardware
