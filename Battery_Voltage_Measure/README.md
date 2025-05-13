@@ -50,3 +50,11 @@ if __name__ == "__main__":
 ![image](https://github.com/user-attachments/assets/55db79cd-ad6f-4a8d-9a4a-d0ffe60f7829)
 
 # Hardware
+
+This is the schematic of the battery voltage measure part on HackberryPi_CM5  
+
+![image](https://github.com/user-attachments/assets/a7473953-f248-4109-9d9c-d08dfec1d01e)  
+
+The battery voltage measure chip and the screen’s touch controller are on the same I2C bus on HackberryPi_CM5.
+
+
