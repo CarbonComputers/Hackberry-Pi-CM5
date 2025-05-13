@@ -9,5 +9,7 @@
 * 2 x USB 3.0 Ports: Use with high speed U-Disk
 * M.2 Slot on board: Boot on SSD or use with AI Kit
 * USB-KVM circuit for Keyboard: Make the device as emergency keyboard
-* Full size HDMI Port: no longer need for mini hdmi adapter!
+* Full size HDMI Port: No longer need for mini hdmi adapter!
+* Stemma QT port: Connect with I2C sensors
+* Battery voltage measure chip on board: Get the current battery voltage
 
