@@ -10,6 +10,10 @@ The following parts are the same for all keyboard version:
 * HackberryPi_CM5_Middlepart
 * HackberryPi_CM5_Redswitch
 
+What's different between different keyboard version:
+* Keyboard support
+* uppercase
+
 # Screws for HackberryPi_CM5
 4 pcs M2x14 ```hexagon socket countersunk``` screws  
 2 pcs M2x4 ```Cup head hexagon``` screws
