@@ -2,6 +2,7 @@
 
 There is one stemma qt port on board, it can be used to communicate with other I2C interface sensor.
 
+Default I2C bus number on HackberryPi_CM5: 11
 
 ***Example:***
 
