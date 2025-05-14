@@ -44,7 +44,7 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  **SBC**: ```Only``` compatible with RaspberryPi CM5. [CM5](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf) is powered by BCM2712, quad core Cortex-A76 (ARMv8) 64-bit SoC @ 2.4GHz.  
  **Dual Speakers**: There are two speakers on board, you can connect them via ```Bluetooth```. [More information.](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Speakers)  
  **2242 NVME Slot**: You can connect a ```2242 SSD``` with the device on board or ```Halio AI accelerator card.``` [More information.](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/NVME%20Slot)  
- **RTC battery**: There is a ```CR927``` battery slot on board, you can use the RTC function on cm5 very easily. More information.  
+ **RTC battery**: There is a ```CR927``` battery slot on board, you can use the RTC function on cm5 very easily. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/RTC-Battery)  
  **Metall body**: The front and back plate is made of ```Aluminium```, the middle part is 3D-printed.  
  **Display**: 4" ```720X720``` high resolution TFT display with multi-touch function.  
  **USB Ports**: 2x```USB3.0``` Speed Ports.  
