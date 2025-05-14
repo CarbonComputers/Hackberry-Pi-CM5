@@ -49,10 +49,10 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  **Display**: 4" ```720X720``` high resolution TFT display with multi-touch function.  
  **USB Ports**: 2x```USB3.0``` Speed Ports.  
  **Full sized HDMI Port**: There is ```one full sized``` HDMI port on board.  
- **Battery Type**: ```5000mah``` Lipo Battery. More Information.  
+ **Battery Type**: ```5000mah``` Lipo Battery. [More Information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Battery)  
  **Battery Life**: Approximately ```5 hours idle time```, about 3-4 hours depending on the task when normally used.  
- **Battery Voltage Measurement**: There is a chip on boared to measure the ```battery voltage``` through I2C interface, More information.   
- **Magnet at the back plate**: There is ```magnet``` which is the same as those on iphone to make the device compaticable with wired magsafe power bank. More information.   
+ **Battery Voltage Measurement**: There is a chip on boared to measure the ```battery voltage``` through I2C interface. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Battery_Voltage_Measure)   
+ **Magnet at the back plate**: There is ```magnet``` which is the same as those on iphone to make the device compaticable with wired magsafe power bank. [More information]()https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Magnet%20backplate   
  **Keyboard Mouse Combo**: Yes, this cyberdeck has ```keyboard and mouse combo``` on board. You can choose blackberry Q10 or Q20 or 9900 keyboard.  
  **Fully customizable keymap**: You can connect the keyboard with a computer and ```customizable``` the keymap through [VIAL](https://get.vial.today/) easily. More Information.  
  **Charging Ampere**: Charge through the Type-C port. ```1.5A-2A charging rate```; this handheld can be fully charged within 2-3 hours.  
