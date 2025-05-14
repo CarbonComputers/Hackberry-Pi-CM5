@@ -30,7 +30,9 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  </div>
 
   # <a name='Dimension and weight  '>Dimension and weight</a>
-  
+  <p align="center">
+<img src="img/HackberryPi_CM5_Blueprint_Whiteline.png" alt="HackberryPi_CM5_Blueprint" width="800"/>
+ </p>
  # <a name='About this Device  '>About this Device Computer</a>
  
  ### Main Features:  
