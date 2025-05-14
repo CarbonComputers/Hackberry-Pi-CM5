@@ -28,7 +28,9 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
 [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)
  
  </div>
- 
+
+  # <a name='Dimension and weight  '>Dimension and weight</a>
+  
  # <a name='About this Device  '>About this Device Computer</a>
  
  ### Main Features:  
