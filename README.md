@@ -64,7 +64,7 @@ In this page you can find the 3D model of each part of this device, you can prin
 * [3D model about this device](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/3D-Modell)
   
 # <a name='Assembly Guidelines  '>Assembly Guidelines</a>
-
+The HackberryPi_CM5 comes without the CM5 unit. Generally, you only need to install the CM5 and the passive heatsink on top. For details, please refer to this page.
 * [Assembly Guidelines](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Assembly)  
 
 # <a name='Hardware  '>Hardware</a>
