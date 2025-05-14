@@ -12,6 +12,7 @@
 * Full size HDMI Port: No longer need for mini hdmi adapter!
 * Stemma QT port: Connect with I2C sensors
 * Battery voltage measure chip on board: Get the current battery voltage
+* Reserved fan connector
 
 # BOM file of HackberryPi_CM5
 
