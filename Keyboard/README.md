@@ -19,3 +19,8 @@ When hold Ctrl, mouse dpi /2 and while hold Alt, mouse dpix2.
 # Keyboard firmware
 
 The keyboard controller on HackberryPi_CM5 is RP2040 chip and the firmware on it is qmk firmware.
+
+
+# Customize the keymap
+
+Thanks to the qmk firmware running on the keyboard, each key on HackberryPi_CM5 can be remapped on [vial app](https://get.vial.today/), just need to connect the HackberryPi with another computer via the usbc port below and flip the left switch and the keyboard output will be changed and the computer will recognize the keyboard on vial app. 
