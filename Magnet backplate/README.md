@@ -6,3 +6,4 @@ There is magnet at the backplate just like the one on iphone
 
 With this magnet the HackberryPi_CM5 can be attatched to any phone stand compatible with Magsafe or powerbank
 
+![Magnet backplate](https://github.com/ZitaoTech/HackberryPiCM5/blob/main/Magnet%20backplate/Magnet.gif)
