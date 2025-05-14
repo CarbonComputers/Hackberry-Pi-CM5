@@ -38,7 +38,7 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
 <img src="img/HackberryPi_CM5_Blueprint_Whiteline.png" alt="HackberryPi_CM5_Blueprint" width="1000"/>
  </p>
  
- # <a name='About this Device  '>About this Device Computer</a>
+ # <a name='About this Device '>About this Device </a>
  
  ### Main Features:  
  **SBC**: ```Only``` compatible with RaspberryPi CM5. [CM5](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf) is powered by BCM2712, quad core Cortex-A76 (ARMv8) 64-bit SoC @ 2.4GHz.  
