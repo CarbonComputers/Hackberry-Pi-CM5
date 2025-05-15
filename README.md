@@ -30,8 +30,8 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  </div>
 
   # <a name='Dimension and weight  '>Dimension and weight</a>
-  **Overall dimensions:** 143.5x91.8x17.6  
-  **Weight:** 306 Gramm  
+  **Overall dimensions:** 143.5x91.8x17.6mm  
+  **Weight:** 306 Gramm(with battery,cm5 and heat sink)  
   Upper and lower case made of aluminium  
   Middle part 3d printed  
   <p align="center">
