@@ -38,7 +38,9 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
 <img src="img/HackberryPi_CM5_Blueprint_Whiteline.png" alt="HackberryPi_CM5_Blueprint" width="1000"/>
  </p>
  And this is how it looks like inside the device:
-
+  <p align="center">
+<img src="img/HackberryPi_CM5_insideimage.png" alt="HackberryPi_CM5_inside" width="1000"/>
+ </p>
  
  # <a name='About this Device '>About this Device </a>
  
