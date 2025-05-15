@@ -18,7 +18,7 @@
 The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board computer) powered handheld computer with reuse of original keyboard from old Blackberry phones. The goal of the project is to create a portable linux-powered computer that lets the user gain a deeper understanding of Linux and explore the architecture of hardware, software, and the Linux kernel. This repository will be used to share information about the project and tutorial about how to make use of this device.
 
 <p align="center">
-<img src="img/HackberryPi_Q10.jpg" alt="HackberryPi_CM5" width="700" style="border-radius:3%"/>
+<img src="img/HackberryPi_Q10.jpg" alt="HackberryPi_CM5" width="800" style="border-radius:3%"/>
 </p>
 
 **Designer's bio**: Zitao, currently a master’s student in Mechanical Engineering and Industrial Design at the Technical University of Dresden, Germany  
@@ -37,6 +37,8 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
   <p align="center">
 <img src="img/HackberryPi_CM5_Blueprint_Whiteline.png" alt="HackberryPi_CM5_Blueprint" width="1000"/>
  </p>
+ And this is how it looks like inside the device:
+
  
  # <a name='About this Device '>About this Device </a>
  
