@@ -83,6 +83,8 @@ There are dual speakers on board, it is needed to pair with the bluetooth audio 
 Because of the metall case and the mounted heat sink, the performance of the original PCB antenna might be a little bit disappointing. This page can tell you how to assemble an external antenna;
 * [External antenna](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/External%20Antenna)
 
-# <a name='Gallery  '>Gallery </a>
+# <a name='Gallery  '>Gallery</a>
 For more photos of the HackberryPi_CM5, please refer to this page.
 * [Gallery](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Gallery)
+
+# <a name='Where to buy  '>where to buy</a>
