@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-<img src="Magnet_HackberryPi_1.png" alt="HackberryPi_CM5_on_magnet_stand" width="1200" style="border-radius:3%"/>
+<img src="Magnet_HackberryPi_1.png" alt="HackberryPi_CM5_on_magnet_stand" width="800" style="border-radius:3%"/>
 </p>
