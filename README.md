@@ -78,3 +78,7 @@ This page offers an in-depth hardware overview of the HackberryPi_CM5, designed 
 # <a name='Speakers  '>Speakers</a>
 There are dual speakers on board, it is needed to pair with the bluetooth audio module to make sound for more information please refer to this page.  
 * [Pair with speakers](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Speakers#pair-with-the-speakers)
+
+# <a name='Gallery  '>Gallery </a>
+For more photos of the HackberryPi_CM5, please refer to this page.
+* [Gallery](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Gallery)
