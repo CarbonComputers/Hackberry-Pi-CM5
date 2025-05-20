@@ -89,3 +89,6 @@ For more photos of the HackberryPi_CM5, please refer to this page.
 
 # <a name='Where to buy  '>Where to buy</a>
 [Buy from elecrow](https://www.elecrow.com/catalogsearch/result/?q=HackberryPi_CM5)
+
+# <a name='Short video  '>short video</a>
+[Tiktok: Mr.Hackberry(One friend of mine)](https://www.tiktok.com/@mr.hackberry_pi)
