@@ -16,6 +16,16 @@ Each keyboard backlight can be adjusted with 10 steps.
 
 When hold Ctrl, mouse dpi /2 and while hold Alt, mouse dpix2.
 
+# Default Layout and Layers
+### Layer0:
+![Keymap_Layer0](https://github.com/user-attachments/assets/85eecbcd-65fe-4cdd-a51c-9182c82d6bc5)
+
+### Layer 1:
+![Keymap_Layer1](https://github.com/user-attachments/assets/28c5043a-dd23-416b-a23b-b14b5fdf9ce6)
+
+### Layer 2:
+![Keymap_Layer2](https://github.com/user-attachments/assets/221d4d2e-35c9-4349-9c26-a69c27b6d6a1)
+
 # Keyboard firmware
 
 The keyboard controller on HackberryPi_CM5 is RP2040 chip and the firmware on it is qmk firmware.
