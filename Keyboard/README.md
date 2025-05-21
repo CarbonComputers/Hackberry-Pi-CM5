@@ -16,6 +16,12 @@ Each keyboard backlight can be adjusted with 10 steps.
 
 When hold Ctrl, mouse dpi /2 and while hold Alt, mouse dpix2.
 
+# How to use the .vil file?  
+Let's say that you changed many keycodes and want to reset the keyboard layout  
+First download vial app from [vial](https://get.vial.today/) homepage![image](https://github.com/user-attachments/assets/351fe201-cb4a-4483-83c8-f314ae1b860c)  
+Install the vial app and open the app  
+Then connect yor computer with Hackberry and in menu **file**->**Load saved layout** and select the .vil file, the keyboard layout will be reset.  
+
 # Default Layout and Layers
 ### Layer0:
 ![Keymap_Layer0](https://github.com/user-attachments/assets/85eecbcd-65fe-4cdd-a51c-9182c82d6bc5)
