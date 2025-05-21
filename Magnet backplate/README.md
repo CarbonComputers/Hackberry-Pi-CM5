@@ -10,3 +10,4 @@ With this magnet the HackberryPi_CM5 can be attatched to any phone stand compati
 ![image](https://github.com/user-attachments/assets/002680ba-f358-4309-9d23-f26a194843cd)
 
 Where to buy the phone stand in the gif:
+[buy from elecrow](https://www.elecrow.com/phone-stand-for-hackberrypi-cm5.html)
