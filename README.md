@@ -62,6 +62,25 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  **Charging Ampere**: Charge through the Type-C port. ```1.5A-2A charging rate```; this handheld can be fully charged within 2-3 hours.  
  **Stemma I2C Port**: This device has a ```Stemma I2C port``` on board, you can connect with any I2C sensors.  
 
+| **Feature**                    | **Details**                                                                                                                                          |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **SBC**                       | Only compatible with Raspberry Pi CM5. [CM5 Datasheet](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf)                                     |
+| **CPU**                       | BCM2712, quad-core Cortex-A76 (ARMv8) 64-bit SoC @ 2.4GHz                                                                                             |
+| **Dual Speakers**            | Dual speakers connected via Bluetooth. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Speakers)                                 |
+| **2242 NVME Slot**           | Supports 2242 SSD or Halio AI accelerator card. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/NVME%20Slot)                  |
+| **RTC Battery**              | CR927 battery slot for RTC functionality. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/RTC-Battery)                        |
+| **Metal Body**               | Aluminium front and back plate; 3D-printed middle section                                                                                              |
+| **Display**                  | 4" 720x720 high-resolution TFT with multi-touch                                                                                                       |
+| **USB Ports**                | 2x USB 3.0 ports                                                                                                                                       |
+| **HDMI Port**                | One full-sized HDMI port                                                                                                                              |
+| **Battery Type**             | 5000mAh LiPo battery. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Battery)                                               |
+| **Battery Life**             | ~5 hours idle, 3–4 hours typical usage                                                                                                                 |
+| **Battery Voltage Measurement** | I2C-based battery voltage measurement. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Battery_Voltage_Measure)          |
+| **Magnet on Back Plate**     | Built-in magnet compatible with iPhone-style wired MagSafe power banks. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Magnet%20backplate) |
+| **Keyboard Mouse Combo**     | On-board combo; supports BlackBerry Q10, Q20, or 9900 keyboard                                                                                        |
+| **Custom Keymap**            | Configurable via [VIAL](https://get.vial.today/). [More information](https://github.com/ZitaoTech/HackberryPiCM5)                                      |
+| **Charging Rate**            | 1.5A–2A via Type-C; full charge in 2–3 hours                                                                                                           |
+| **Stemma I2C Port**          | On-board Stemma I2C port for external sensors                                                                                                         |
 
 # <a name='3D model  '>3D model</a>
 In this page you can find the 3D model of each part of this device, you can print or modify the part yourself.
