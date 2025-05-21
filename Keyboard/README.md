@@ -38,7 +38,10 @@ Then connect yor computer with Hackberry and in menu **file**->**Load saved layo
 You can set each key on the keyboard on each layer to trigger some keycode with single tap, double tap or hold in tapdance
 ![image](https://github.com/user-attachments/assets/9abfda2b-e50f-4dd1-bb3b-b38e9443e5ee)
 ![image](https://github.com/user-attachments/assets/906d2bc7-08cd-4536-8c16-bde581c5c4db)
-
+### Macros
+You can use record function in vial app and output a lot of text using macros function
+![image](https://github.com/user-attachments/assets/791de464-f01c-4d54-8314-c62dc13d63ad)
+For more information please refer to the user manual on [vial page](https://get.vial.today/manual/)
 
 
 # Customize the keymap
