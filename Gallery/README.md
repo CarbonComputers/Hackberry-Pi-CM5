@@ -1,4 +1,4 @@
-### HackberryPi_CM5 get DHL20 reading 
+### HackberryPi_CM5 get DHT20 reading 
 <p align="center">
 <img src="DHT20_Measure.png" alt="HackberryPi_CM5_read_DHL20" width="1200" style="border-radius:3%"/>
 </p>
