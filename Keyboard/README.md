@@ -32,6 +32,10 @@ Then connect yor computer with Hackberry and in menu **file**->**Load saved layo
 ### Layer 2:
 ![Keymap_Layer2](https://github.com/user-attachments/assets/221d4d2e-35c9-4349-9c26-a69c27b6d6a1)
 
+# Customize the keymap
+
+Thanks to the qmk firmware running on the keyboard, each key on HackberryPi_CM5 can be remapped on [vial app](https://get.vial.today/), just need to connect the HackberryPi with another computer via the usbc port below and flip the left switch and the keyboard output will be changed and the computer will recognize the keyboard on vial app. 
+
 # Some features you can use in via app
 
 ### Tap dance
@@ -44,6 +48,4 @@ You can use record function in vial app and output a lot of text using macros fu
 For more information please refer to the user manual on [vial page](https://get.vial.today/manual/)
 
 
-# Customize the keymap
 
-Thanks to the qmk firmware running on the keyboard, each key on HackberryPi_CM5 can be remapped on [vial app](https://get.vial.today/), just need to connect the HackberryPi with another computer via the usbc port below and flip the left switch and the keyboard output will be changed and the computer will recognize the keyboard on vial app. 
