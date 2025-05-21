@@ -43,24 +43,6 @@ The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board com
  </p>
  
  # <a name='About this Device '>About this Device </a>
- 
- ### Main Features:  
- **SBC**: ```Only``` compatible with RaspberryPi CM5. [CM5](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf) is powered by BCM2712, quad core Cortex-A76 (ARMv8) 64-bit SoC @ 2.4GHz.  
- **Dual Speakers**: There are two speakers on board, you can connect them via ```Bluetooth```. [More information.](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Speakers)  
- **2242 NVME Slot**: You can connect a ```2242 SSD``` with the device on board or ```Halio AI accelerator card.``` [More information.](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/NVME%20Slot)  
- **RTC battery**: There is a ```CR927``` battery slot on board, you can use the RTC function on cm5 very easily. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/RTC-Battery)  
- **Metall body**: The front and back plate is made of ```Aluminium```, the middle part is 3D-printed.  
- **Display**: 4" ```720X720``` high resolution TFT display with multi-touch function.  
- **USB Ports**: 2x```USB3.0``` Speed Ports.  
- **Full sized HDMI Port**: There is ```one full sized``` HDMI port on board.  
- **Battery Type**: ```5000mah``` Lipo Battery. [More Information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Battery)  
- **Battery Life**: Approximately ```5 hours idle time```, about 3-4 hours depending on the task when normally used.  
- **Battery Voltage Measurement**: There is a chip on boared to measure the ```battery voltage``` through I2C interface. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Battery_Voltage_Measure)   
- **Magnet at the back plate**: There is ```magnet``` which is the same as those on iphone to make the device compaticable with wired magsafe power bank. [More information](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Magnet%20backplate )  
- **Keyboard Mouse Combo**: Yes, this cyberdeck has ```keyboard and mouse combo``` on board. You can choose blackberry Q10 or Q20 or 9900 keyboard.  
- **Fully customizable keymap**: You can connect the keyboard with a computer and ```customizable``` the keymap through [VIAL](https://get.vial.today/) easily. More Information.  
- **Charging Ampere**: Charge through the Type-C port. ```1.5A-2A charging rate```; this handheld can be fully charged within 2-3 hours.  
- **Stemma I2C Port**: This device has a ```Stemma I2C port``` on board, you can connect with any I2C sensors.  
 
 | **Feature**                    | **Details**                                                                                                                                          |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
