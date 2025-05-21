@@ -32,9 +32,13 @@ Then connect yor computer with Hackberry and in menu **file**->**Load saved layo
 ### Layer 2:
 ![Keymap_Layer2](https://github.com/user-attachments/assets/221d4d2e-35c9-4349-9c26-a69c27b6d6a1)
 
-# Keyboard firmware
+# Some features you can use in via app
 
-The keyboard controller on HackberryPi_CM5 is RP2040 chip and the firmware on it is qmk firmware.
+### Tap dance
+You can set each key on the keyboard on each layer to trigger some keycode with single tap, double tap or hold in tapdance
+![image](https://github.com/user-attachments/assets/9abfda2b-e50f-4dd1-bb3b-b38e9443e5ee)
+![image](https://github.com/user-attachments/assets/906d2bc7-08cd-4536-8c16-bde581c5c4db)
+
 
 
 # Customize the keymap
