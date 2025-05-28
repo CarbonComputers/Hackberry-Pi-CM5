@@ -36,7 +36,7 @@ Execute n to add the partition, and then just type enter enter enter until a new
 
 ### Format
 ```sh
-sudo mkfs.ext4 /dev/nvme0n1p1
+sudo mkfs.vfat -F 32 /dev/nvme0n1p1
 ```
 Wait for a few moments, when done has appeared, it means that the formatting has been carried out.
 ![1a0374a7-da44-4201-9268-f5ef6763b0c1](https://github.com/user-attachments/assets/59d68cfb-bc9b-4627-8ab2-7d934cb8fa68)
