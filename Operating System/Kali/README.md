@@ -69,10 +69,10 @@ dtoverlay=vc4-kms-dpi-hyperpixel4sq
 Bluetooth may not be enabled by default in Kali on current version of Kali. You need to enable it manually, here are the steps:
 
 ```sh
-sudo apt install bluetooth
+sudo apt install blueman
 ```
 and then
 ```sh
-sudo systemcli enable bluetooth.service
+sudo systemctl enable bluetooth.service
 ```
 Then you can connect with the speakers and use bluetooth on HackberryPi_CM5 in Kali
