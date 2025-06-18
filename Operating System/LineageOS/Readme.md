@@ -1,0 +1,1 @@
+LineageOS is an open source Android operating system for smartphones, tablets, and set-top boxes. It is community-developed and serves as the successor to CyanogenMod.
