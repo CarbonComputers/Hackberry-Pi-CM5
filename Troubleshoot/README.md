@@ -12,7 +12,11 @@ When you troubleshoot the second situation and still found the trackpad has no r
 
 Maybe after you boot the device up and found the display showing some lines as the picture shows below, don't worry that you may have broken the display. This is an effect called display polarized, it always happens when the display driver chip is powered on while there is no display image input, you can first disable the power saving or screensaving function in your operating system and put the device running like one hour and the display can revocer itsself.
 
-### HackberryPi_CM5 won't boot(black screen).
+### Black screen
+
+Make sure to disable the hardware I2C and SPI because the gpios are used by the screen, you can connect the device with external Display with HDMI port to configure the hardware I2C or SPI usage.
+
+### HackberryPi_CM5 won't boot.
 
 1. Boot with TF card: You may find that the device won't boot up after some usage. There is one status LED showing the current status on top of the HackberryPi_CM5. If the white LED won't blink after you blink, that means the kernel image might break down. You need to flash a new image into the tf card or the tf card is broken and you need to use another new card.
 2. Boot with SSD: Make sure that the image is stored at the p1 partition(like nvme0n1p1 not nvme0n1p2), otherwise there is a chance that the device can't boot with the image at p2
