@@ -73,5 +73,11 @@ dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ```
 ![f6f5cfc7bf51e22420ad9562048b33e](https://github.com/user-attachments/assets/50c78d32-e169-4337-be83-55a8846ea0a2)
 
+If you found that Wifi won't work add the following into the cmdline.txt
+
+```sh
+brcmfmac.roamoff=1 brcmfmac.feature_disable=0x282000
+```sh
+
 ⚠️   
 ### Note: It seems by default the image on screen is set at 275% scale. You might need to connect to an external HDMI display to reset the scale on Manjaro
