@@ -88,7 +88,10 @@ Because of the metall case and the mounted heat sink, the performance of the ori
 For more photos of the HackberryPi_CM5, please refer to this page.
 * [Gallery](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Gallery)
 
-# <a name='Where to buy  '>Where to buy</a>
+# <a name='Where to buy from U.S.A Assembled'>Where to buy</a>
+* [Buy from Carbon Computers](https://carboncomputers.us/)
+
+# <a name='Where to buy from China '>Where to buy</a>
 * [Buy from elecrow](https://www.elecrow.com/catalogsearch/result/?q=HackberryPi_CM5)
 
 # <a name='Short video  '>Short video</a>
