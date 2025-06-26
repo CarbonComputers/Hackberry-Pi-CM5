@@ -2,7 +2,7 @@
 <img src="HackberryPi_Logo.png" alt="Redox logo" width="200"/>
  </p>
 
- <h3 align="center">The HackberryPi_CM5 project repository</h3>
+ <h3 align="center">The HackberryPi_CM5 Project Repo</h3>
 
 <div align="center">
 
@@ -15,13 +15,13 @@
 
 ---
 
-The HackberryPi_CM5 project is a RaspberryPi Compute Module SBC(single board computer) powered handheld computer with reuse of original keyboard from old Blackberry phones. The goal of the project is to create a portable linux-powered computer that lets the user gain a deeper understanding of Linux and explore the architecture of hardware, software, and the Linux kernel. This repository will be used to share information about the project and tutorial about how to make use of this device.
+The HackberryPi CM5 project is a Raspberry Pi Compute Module SBC(single board computer) powered handheld computer with reuse of original keyboard from old Blackberry phones. The goal of the project is to create a portable linux-powered computer that lets the user gain a deeper understanding of Linux and explore the architecture of hardware, software, and the Linux kernel. This repository will be used to share information about the project and tutorial about how to make use of this device.
 
 <p align="center">
 <img src="img/HackberryPi_Q10.jpg" alt="HackberryPi_CM5" width="800" style="border-radius:3%"/>
 </p>
 
-**Designer's bio**: Zitao, currently a master’s student in Mechanical Engineering and Industrial Design at the Technical University of Dresden, Germany  
+**About the creator bio**: Zitao, currently a master’s student in Mechanical Engineering and Industrial Design at the Technical University of Dresden, Germany  
 
 <div align="center">
  
@@ -88,7 +88,7 @@ Because of the metall case and the mounted heat sink, the performance of the ori
 For more photos of the HackberryPi_CM5, please refer to this page.
 * [Gallery](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Gallery)
 
-# <a name='Where to buy from U.S.A Assembled'>Where to buy</a>
+# <a name='Where to buy from U.S.A Assembled'>Where to buy from U.S.A Assembled</a>
 * [Buy from Carbon Computers](https://carboncomputers.us/)
 
 # <a name='Where to buy from China '>Where to buy</a>
