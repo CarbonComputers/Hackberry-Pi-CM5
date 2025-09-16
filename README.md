@@ -88,11 +88,12 @@ Because of the metall case and the mounted heat sink, the performance of the ori
 For more photos of the HackberryPi_CM5, please refer to this page.
 * [Gallery](https://github.com/ZitaoTech/HackberryPiCM5/tree/main/Gallery)
 
-# <a name='Where to buy from U.S.A Assembled'>Where to buy from U.S.A Assembled</a>
+# <a name='Where to buy from U.S.A Assembled'>Where to buy from U.S.A Assembled & Ready to use</a>
 * [Buy from Carbon Computers](https://carboncomputers.us/)
 
 * Credits to Zitao for creating the ultimate PiBerry build. We are working on a new, slimmer model with phone features, the Cybert.
 
 # <a name='Short video  '>Short video</a>
 * [Tiktok: Mr.Hackberry(One friend of mine)](https://www.tiktok.com/@mr.hackberry_pi)
+
 
