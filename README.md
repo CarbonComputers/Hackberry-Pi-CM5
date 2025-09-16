@@ -91,8 +91,8 @@ For more photos of the HackberryPi_CM5, please refer to this page.
 # <a name='Where to buy from U.S.A Assembled'>Where to buy from U.S.A Assembled</a>
 * [Buy from Carbon Computers](https://carboncomputers.us/)
 
-# <a name='Where to buy from China '>Where to buy</a>
-* [Buy from elecrow](https://www.elecrow.com/catalogsearch/result/?q=HackberryPi_CM5)
+* Credits to Zitao for creating the ultimate PiBerry build. We are working on a new, slimmer model with phone features, the Cybert.
 
 # <a name='Short video  '>Short video</a>
 * [Tiktok: Mr.Hackberry(One friend of mine)](https://www.tiktok.com/@mr.hackberry_pi)
+
