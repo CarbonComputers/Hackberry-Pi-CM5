@@ -13,7 +13,7 @@ Then you can see the device booting into TwisterOS
 # http://rptl.io/configtxt
 # Some settings may impact device functionality. See link above for details
 
-# Enable audio (loads snd_bcm2835)
+# Enable audio (loads snd_bcm2835).
 dtparam=audio=on
 
 # Automatically load overlays for detected cameras
